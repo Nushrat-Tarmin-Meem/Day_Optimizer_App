@@ -1,6 +1,4 @@
-# Day_Optimizer_App
-
-# Mockup Design of App
+# Mockup Design of Day Optimizer App
 <table>
   <tr><th>Splash Screen</th><th>Sign Up Activity</th></tr>
   <tr><td><img align="left" alt="" height="500" width="250" src="https://github.com/Nushrat-Tarmin-Meem/Day_Optimizer_App/assets/127888834/f80c7b46-28e9-40ba-b203-402cacab46fc" ></td>
